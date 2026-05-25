@@ -1,6 +1,6 @@
 # Hi, I'm Raphael 👋
 
-### Developer at Solace | Building AI-powered event-driven systems
+### Engineer at Solace | Building AI-powered event-driven systems
 
 I work at the intersection of **event-driven architecture** and **AI agents**, creating tools and frameworks that help developers build intelligent, real-time systems with [Solace](https://solace.com).
 
@@ -43,7 +43,6 @@ I work at the intersection of **event-driven architecture** and **AI agents**, c
 | [solace-pretty-dump](https://github.com/raphael-solace/solace-pretty-dump) | Color pretty-printer for Solace messages | Java |
 | [structureiq](https://github.com/raphael-solace/structureiq) | Structured Product Generator via Solace Agent Mesh | JavaScript |
 | [solace-agent-mesh-plugins](https://github.com/raphael-solace/solace-agent-mesh-plugins) | Community plugins for Solace Agent Mesh | Python |
-| [slack-izi-bot](https://github.com/raphael-solace/slack-izi-bot) | Auto-reply to Slack DMs using Claude — zero config | Shell |
 
 ---
 
@@ -51,9 +50,3 @@ I work at the intersection of **event-driven architecture** and **AI agents**, c
 
 - 💼 [GitHub](https://github.com/raphael-solace)
 - 🌍 Based in France
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphael-solace&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
